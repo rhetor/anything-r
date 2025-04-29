@@ -1,0 +1,3 @@
+[submodule "shinymanager"]
+	path = shinymanager
+	url = git@github.com:datastorm-open/shinymanager.git
